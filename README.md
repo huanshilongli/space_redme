@@ -3,7 +3,7 @@
 <div align=center><img src="https://s1.xptou.com/2022/12/10/6393c5e69f964.png" width = "20%"></div>
 <div align=center><a href="https://space.longli.space/" title="Space Capsule">主页</a> ● <a href="https://longli928.github.io/FODI/" title="不支持 IE 和 UWP 版 EDGE 浏览器">FODI</a> ● <a href="mailto:Longli928@outlook.com" title="与我联系">Mail</a>
 </div>
-<br/><br/>
+<br/>
 <div align=center><img src="https://s1.xptou.com/2022/12/10/6393c482f3567.png" width = "60%"></div>
 <br/>
 <div align=center>© 2022 Longli.space</div>
